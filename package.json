@@ -1,0 +1,20 @@
+{
+  "name": "atividade_pratica-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "ex1": "npx tsc && node ./dist/ex1.js",
+    "ex2": "npx tsc && node ./dist/ex2.js",
+    "ex3": "npx tsc && node ./dist/ex3.js",
+    "ex4": "npx tsc && node ./dist/ex4.js",
+    "ex5": "npx tsc && node ./dist/ex5.js",
+    "ex6": "npx tsc && node ./dist/ex6.js",
+    "ex7": "npx tsc && node ./dist/ex7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
